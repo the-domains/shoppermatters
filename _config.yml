@@ -1,6 +1,6 @@
 name: ShopperMatters
 favicon: null
-layout_spectrum: 0.9449400824960321
+layout_spectrum: 0.92991
 typography_spectrum: 0.32990677119232714
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#cc0000'
+    - '#000000'
+    - '#ffcc00'
+    - '#6e6e6e'
   brandStrength: 0.26717016007751226
   lightness: 0.09623510111123323
   saturation: 0.9547893565613776
